@@ -7,10 +7,15 @@ SQLite-Demo - Criação da tabela funcionários e comandos.
 # Comandos: 
 -- 1 )
 -- Criar a tabela 'funcionarios' com as colunas especificadas:
+
 -- 'id' como chave primária (identificador único),
+
 -- 'nome' para o nome do funcionário (texto de até 100 caracteres),
+
 -- 'departamento' para o departamento do funcionário (texto de até 100 caracteres),
+
 -- e 'salario' para o salário do funcionário (número decimal).
+
 CREATE TABLE funcionarios (
     id INT PRIMARY KEY,
     nome VARCHAR(100),
