@@ -1,7 +1,7 @@
 # sqlite-demo-comandos-tabela-funcionarios
 
 SQLite-Demo - Criação da tabela funcionários e comandos.
-![image](https://github.com/user-attachments/assets/a7595059-d787-44a4-b68e-f42f8ba2a33c)
+![image](https://github.com/user-attachments/assets/aec39f09-ccb3-49fe-a3b5-9db87ecda93d)
 *Tabela funcionários e comandos
 
 ## 🛠 Tecnologias utilizadas
